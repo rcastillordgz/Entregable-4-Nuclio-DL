@@ -1,7 +1,9 @@
-# 🌱 Entorno virtual
+# 🌱 Entornos virtuales
 venv/
+venv311/
 .env/
 .venv/
+
 
 # 🧠 Archivos temporales de Python
 __pycache__/
