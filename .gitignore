@@ -1,3 +1,52 @@
+# 🌱 Entorno virtual
 venv/
+.env/
+.venv/
+
+# 🧠 Archivos temporales de Python
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 🗂️ Archivos del sistema
 .DS_Store
+Thumbs.db
+
+# 📒 Notebooks con outputs grandes
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# 📦 Paquetes y logs
+*.log
+*.out
+
+# 📈 Archivos comunes de datasets y modelos
+*.csv
+# Pero sí sube este:
+!datos_importantes.csv
+*.tsv
+*.zip
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sav
+*.npy
+*.npz
+
+# 📁 Directorios comunes para datos
+/data/
+datasets/
+models/
+checkpoints/
+outputs/
+results/
+logs/
+
+# 💾 Entornos de Conda o Pip
+Pipfile
+Pipfile.lock
+poetry.lock
+requirements.txt~  # si lo editas con editores de texto que crean backups
