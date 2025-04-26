@@ -17,10 +17,10 @@ Se han trabajado tres enfoques principales:
 - `notebooks/`: Cuadernos de Google Colab con todo el proceso documentado.
 - `README.md`: Documento actual.
 
-> ❗ No se han guardado figuras gráficas (`.png`). Todas las visualizaciones se encuentran en los notebooks.
-> ❗ No se han guardado modelos (`.h5`) por su tamaño.
-> ❗ No se han guardado los historiales (`.pkl`) por su tamaño.
-> 📢 Si se desean guardar, recomendamos ejecutar el notebook y guardarlos en local.
+- ❗ No se han guardado figuras gráficas (`.png`). Todas las visualizaciones se encuentran en los notebooks.
+- ❗ No se han guardado modelos (`.h5`) por su tamaño.
+- ❗ No se han guardado los historiales (`.pkl`) por su tamaño.
+- 📢 Si se desean guardar, recomendamos ejecutar el notebook y guardarlos en local.
 
 ---
 
