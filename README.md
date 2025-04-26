@@ -68,5 +68,8 @@ Se han trabajado tres enfoques principales:
 
 ## 🏆 Créditos
 
-Proyecto realizado por Ricardo Castillo Rodríguez
+Proyecto realizado por:
+Ricardo Castillo Rodríguez
+Miriam Santana
+Katherine Escobar
 ---
