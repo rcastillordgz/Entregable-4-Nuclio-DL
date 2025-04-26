@@ -1,10 +1,3 @@
-# 🌱 Entornos virtuales
-venv/
-venv311/
-.env/
-.venv/
-
-
 # 🧠 Archivos temporales de Python
 __pycache__/
 *.py[cod]
@@ -16,39 +9,22 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# 📒 Notebooks con outputs grandes
+# 📒 Checkpoints de notebooks
 .ipynb_checkpoints/
-*.nbconvert.ipynb
 
-# 📦 Paquetes y logs
-*.log
-*.out
-
-# 📈 Archivos comunes de datasets y modelos
-*.csv
-# Pero sí sube este:
-!datos_importantes.csv
-*.tsv
-*.zip
+# 📦 Modelos y outputs grandes
 *.h5
 *.hdf5
 *.pkl
-*.joblib
-*.sav
 *.npy
 *.npz
+*.joblib
+*.sav
 
-# 📁 Directorios comunes para datos
-/data/
-datasets/
+# 📁 Directorios de datos y modelos (por si los crearas más adelante)
 models/
-checkpoints/
 outputs/
-results/
+datasets/
+data/
+checkpoints/
 logs/
-
-# 💾 Entornos de Conda o Pip
-Pipfile
-Pipfile.lock
-poetry.lock
-requirements.txt~  # si lo editas con editores de texto que crean backups
